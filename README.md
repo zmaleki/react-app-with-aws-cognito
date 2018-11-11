@@ -12,6 +12,7 @@ required setting of the user pool:
 5. There has to be a domain assigned to your user pool. (you can use Amazon Cognito domains)
 
 open the-bird-app/src/containers/PrivateRoute.tsx
+
 replace amplify configs with your userpool configs
 
 cd the-bird-app
