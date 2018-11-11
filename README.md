@@ -15,5 +15,7 @@ open the-bird-app/src/containers/PrivateRoute.tsx
 replace amplify configs with your userpool configs
 
 cd the-bird-app
+
 npm start
+
 browse to http://localhost:3000/protected
